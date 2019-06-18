@@ -6,7 +6,6 @@
 - **Version**        : v1.0.0
 - **Date**           : 3/28/2019
 - **Author**         : Nemanja Medakovic
-- **Libstock**       : {LIBSTOCK_LINK}
 
 ## Project description
 
